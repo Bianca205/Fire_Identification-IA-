@@ -33,5 +33,5 @@ Os dados de treino e validação estão disponíveis na pasta `Data/`, contendo 
 > Após o download, coloque os arquivos nas pastas correspondentes.
 
 ## Métricas de Avaliação
--> Acurácia de validação acima de 90%
--> Matriz de confusão e curva ROC disponíveis no notebook
+- Acurácia de validação acima de 90%
+-  Matriz de confusão e curva ROC disponíveis no notebook
