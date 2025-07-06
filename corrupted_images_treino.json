@@ -1,0 +1,1947 @@
+[
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_725.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_725.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_770.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_770.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_918.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_918.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_805.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_805.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_667.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_667.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_707.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_707.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_77.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_77.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_877.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_877.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_86.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_86.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_753.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_753.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_840.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_840.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_645.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_645.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_731.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_731.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_886.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_886.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_826.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_826.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_699.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_699.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_838.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_838.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_925.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_925.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_75.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_75.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_701.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_701.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_772.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_772.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_706.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_706.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_865.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_865.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_84.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_84.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_779.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_779.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_674.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_674.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_797.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_797.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_708.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_708.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_789.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_789.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_62.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_62.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_679.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_679.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_642.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_642.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_621.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_621.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_911.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_911.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_819.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_819.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_596.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_596.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_903.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_903.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_744.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_744.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_816.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_816.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_884.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_884.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_676.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_676.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_936.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_936.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_737.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_737.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_593.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_593.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_597.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_597.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_618.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_618.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_874.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_874.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_804.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_804.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_913.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_913.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_898.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_898.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_873.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_873.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_922.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_922.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_814.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_814.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_736.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_736.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_740.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_740.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_823.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_823.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_697.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_697.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_666.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_666.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_657.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_657.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_837.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_837.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_585.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_585.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_88.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_88.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_714.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_714.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_892.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_892.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_617.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_617.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_693.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_693.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_739.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_739.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_637.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_637.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_929.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_929.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_649.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_649.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_869.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_869.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_882.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_882.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_726.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_726.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_599.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_599.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_716.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_716.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_717.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_717.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_592.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_592.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_808.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_808.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_664.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_664.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_586.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_586.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_902.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_902.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_780.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_780.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_738.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_738.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_653.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_653.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_788.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_788.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_83.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_83.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_851.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_851.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_928.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_928.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_899.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_899.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_658.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_658.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_857.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_857.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_709.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_709.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_700.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_700.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_686.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_686.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_668.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_668.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_682.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_682.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_606.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_606.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_916.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_916.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_825.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_825.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_67.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_67.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_624.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_624.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_615.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_615.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_761.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_761.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_1574.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_1574.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_631.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_631.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_906.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_906.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_768.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_768.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_727.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_727.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_817.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_817.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_614.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_614.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_641.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_641.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_80.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_80.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_712.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_712.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_607.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_607.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_905.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_905.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_689.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_689.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_802.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_802.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_792.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_792.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_669.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_669.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_68.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_68.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_803.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_803.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_846.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_846.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_876.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_876.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_746.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_746.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_650.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_650.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_776.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_776.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_839.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_839.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_670.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_670.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_636.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_636.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_870.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_870.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_756.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_756.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_771.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_771.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_832.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_832.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_880.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_880.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_820.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_820.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_809.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_809.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_723.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_723.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_625.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_625.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_844.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_844.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_730.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_730.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_926.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_926.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_889.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_889.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_862.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_862.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_794.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_794.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_72.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_72.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_600.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_600.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_630.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_630.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_943.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_943.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_623.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_623.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_743.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_743.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_651.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_651.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_912.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_912.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_595.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_595.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_735.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_735.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_807.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_807.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_917.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_917.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_598.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_598.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_829.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_829.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_718.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_718.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_787.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_787.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_785.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_785.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_673.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_673.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_602.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_602.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_643.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_643.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_608.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_608.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_940.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_940.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_796.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_796.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_612.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_612.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_703.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_703.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_935.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_935.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_616.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_616.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_64.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_64.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_70.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_70.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_842.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_842.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_801.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_801.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_733.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_733.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_604.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_604.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_896.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_896.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_695.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_695.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_799.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_799.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_881.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_881.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_683.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_683.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_61.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_61.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_930.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_930.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_775.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_775.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_91.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_91.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_89.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_89.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_634.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_634.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_704.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_704.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_661.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_661.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_93.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_93.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_890.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_890.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_860.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_860.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_781.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_781.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_919.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_919.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_854.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_854.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_609.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_609.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_629.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_629.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_758.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_758.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_783.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_783.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_765.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_765.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_680.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_680.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_813.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_813.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_71.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_71.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_784.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_784.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_824.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_824.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_878.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_878.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_671.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_671.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_875.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_875.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_910.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_910.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_845.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_845.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_63.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_63.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_858.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_858.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_848.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_848.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_800.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_800.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_750.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_750.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_721.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_721.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_774.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_774.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_677.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_677.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_591.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_591.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_891.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_891.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_888.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_888.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_850.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_850.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_626.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_626.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_923.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_923.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_759.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_759.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_603.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_603.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_927.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_927.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_59.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_59.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_672.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_672.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_760.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_760.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_810.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_810.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_684.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_684.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_767.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_767.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_879.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_879.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_713.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_713.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_692.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_692.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_620.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_620.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_613.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_613.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_764.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_764.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_883.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_883.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_856.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_856.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_749.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_749.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_705.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_705.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_762.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_762.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_702.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_702.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_741.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_741.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_944.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_944.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_638.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_638.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_663.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_663.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_908.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_908.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_920.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_920.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_627.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_627.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_719.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_719.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_932.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_932.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_853.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_853.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_690.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_690.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_665.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_665.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_81.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_81.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_921.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_921.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_766.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_766.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_69.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_69.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_843.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_843.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_895.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_895.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_763.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_763.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_812.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_812.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_847.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_847.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_659.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_659.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_942.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_942.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_866.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_866.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_863.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_863.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_601.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_601.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_745.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_745.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_632.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_632.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_694.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_694.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_835.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_835.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_834.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_834.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_742.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_742.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_622.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_622.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_66.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_66.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_754.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_754.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_647.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_647.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_757.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_757.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_633.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_633.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_687.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_687.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_894.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_894.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_864.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_864.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_65.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_65.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_818.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_818.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_639.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_639.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_909.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_909.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_828.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_828.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_904.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_904.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_729.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_729.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_830.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_830.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_728.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_728.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_939.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_939.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_619.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_619.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_931.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_931.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_786.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_786.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_782.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_782.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_827.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_827.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_748.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_748.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_831.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_831.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_859.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_859.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_85.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_85.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_821.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_821.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_646.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_646.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_901.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_901.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_795.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_795.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_628.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_628.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_654.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_654.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_777.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_777.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_836.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_836.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_937.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_937.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_806.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_806.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_755.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_755.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_688.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_688.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_868.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_868.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_724.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_724.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_915.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_915.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_893.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_893.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_914.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_914.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_852.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_852.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_90.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_90.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_648.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_648.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_678.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_678.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_887.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_887.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_900.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_900.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_675.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_675.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_897.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_897.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_732.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_732.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_656.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_656.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_94.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_94.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_74.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_74.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_711.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_711.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_691.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_691.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_793.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_793.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_778.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_778.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_605.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_605.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_938.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_938.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_833.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_833.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_660.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_660.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_752.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_752.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_644.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_644.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_747.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_747.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_751.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_751.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_590.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_590.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_790.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_790.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_815.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_815.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_87.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_87.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_589.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_589.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_720.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_720.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_635.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_635.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_867.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_867.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_662.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_662.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_640.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_640.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_798.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_798.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_822.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_822.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_791.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_791.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_841.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_841.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_698.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_698.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_681.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_681.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_655.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_655.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_885.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_885.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_773.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_773.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_73.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_73.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_811.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_811.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_769.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_769.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_652.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_652.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_60.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_60.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_924.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_924.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_907.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_907.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_587.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_587.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_610.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_610.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_855.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_855.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_696.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_696.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_76.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_76.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_710.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_710.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_872.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_872.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_611.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_611.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_715.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_715.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_941.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_941.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_82.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_82.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_871.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_871.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_933.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_933.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_734.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_734.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_861.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_861.jpg'",
+    "class": "Fire"
+  },
+  {
+    "path": "/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_849.jpg",
+    "error": "cannot identify image file '/home/bianca/Identifica\u00e7\u00e3o de inc\u00eandio/Data/Train_Data/Fire/F_849.jpg'",
+    "class": "Fire"
+  }
+]
