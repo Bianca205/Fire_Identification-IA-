@@ -28,11 +28,10 @@ Os dados de treino e validação estão disponíveis na pasta `Data/`, contendo 
 📥 Baixe o conjunto de dados e o modelo através dos links:
 
 - 🔗 [Data (Google Drive)](https://drive.google.com/drive/folders/1X04kMcWOrjQMe6DJhaS1VVr14qVmHaIx?usp=sharing)
-- 🔗 [Modelo Treinado (fire_detector_model.h5)](https://drive.google.com/...) *(adicione aqui o link real)*
+- 🔗 [Modelo Treinado (fire_detector_model.h5)](https://drive.google.com/file/d/1Fl1p5790Y0MwqZ8Cf8wQOB2obWGGuZs0/view?usp=sharing)
 
 > Após o download, coloque os arquivos nas pastas correspondentes.
 
 ## Métricas de Avaliação
-Acurácia de validação acima de 90%
-
-Matriz de confusão e curva ROC disponíveis no notebook
+-> Acurácia de validação acima de 90%
+-> Matriz de confusão e curva ROC disponíveis no notebook
